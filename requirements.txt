@@ -11,3 +11,10 @@ jupyterlab
 statsmodels
 beautifulsoup4
 polars>=0.20
+arch>=5.6
+scipy>=1.10
+mplfinance>=0.12
+prophet>=1.1
+plotly>=5.15
+tqdm>=4.65
+transformers>=4.35
