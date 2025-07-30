@@ -10,3 +10,4 @@ xgboost>=1.7
 jupyterlab
 statsmodels
 beautifulsoup4
+polars>=0.20
